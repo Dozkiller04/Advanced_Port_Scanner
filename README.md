@@ -64,7 +64,7 @@ Results will show in console and be saved to scan_results.txt and scan_results.c
 ## 🎬 Project Demo (with Voice-over)
 
 📽️ **Watch full demo:**  
-👉 [Click to Watch on Google Drive](https://drive.google.com/file/d/1AnbJfn0IfItNJf6TrMCYphfrvTJ5-act/view?usp=drive_link)
+👉 [Click to Watch on Google Drive](https://drive.google.com/file/d/11nu8dicrcWvslHTbP3ZMoWO3aYMYD1We/view?usp=drive_link)
 
 ---
 
