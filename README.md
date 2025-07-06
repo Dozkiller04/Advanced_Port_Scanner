@@ -54,10 +54,11 @@ Results will show in console and be saved to scan_results.txt and scan_results.c
 ## 📸 Screenshots
 
 ### ▶️ Script Start Prompt  
-[![Script Start](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/01_script_start.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/01_script_start.png)
+[![Script Start](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/01_script_start.png.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/01_script_start.png.png)
 
 ### ✅ Open Port Scan Output  
-[![Scan Output](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/02_scan_result.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/02_scan_result.png)
+[![Scan Output](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/02_scan_result.png.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/02_scan_result.png.png)
+
 
 ---
 
