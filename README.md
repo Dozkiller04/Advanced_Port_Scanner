@@ -51,33 +51,37 @@ Enter end port (e.g. 100)
 
 Results will show in console and be saved to scan_results.txt and scan_results.csv.
 ```
-📸 Screenshots
-▶️ Script Start Prompt
+## 📸 Screenshots
 
-✅ Open Port Scan Output
+### ▶️ Script Start Prompt  
+[![Script Start](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/01_script_start.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/01_script_start.png)
 
-🎬 Project Demo (with Voice-over)
-📽️ Watch full demo here:
-👉 Click to Watch Demo on Google Drive
+### ✅ Open Port Scan Output  
+[![Scan Output](https://raw.githubusercontent.com/Dozkiller04/Advanced_Port_Scanner/main/screenshots/02_scan_result.png)](https://github.com/Dozkiller04/Advanced_Port_Scanner/blob/main/screenshots/02_scan_result.png)
 
-🚀 Future Improvements
-🌐 Service version detection
+---
 
-🛑 Port exclusion filters
+## 🎬 Project Demo (with Voice-over)
 
-📈 GUI using Tkinter or PyQt
+📽️ **Watch full demo:**  
+👉 [Click to Watch on Google Drive](https://drive.google.com/file/d/1AnbJfn0IfItNJf6TrMCYphfrvTJ5-act/view?usp=drive_link)
 
-🧠 Add UDP scanning support
+---
 
-🔐 Detect common vulnerable ports
+## 🚀 Future Improvements
 
-👨‍💻 Author
-Soham Pramod Tayade
-🎓 BSc Cyber & Digital Science
-🏢 RISE Internship – Cybersecurity & Ethical Hacking
-📍 Pune, Maharashtra
-🔗 GitHub: Dozkiller04
+- 🌐 Service version detection  
+- 🛑 Port exclusion filters  
+- 📈 GUI using Tkinter or PyQt  
+- 🧠 Add UDP scanning support  
+- 🔐 Detect common vulnerable ports
 
+---
 
+## 👨‍💻 Author
 
-
+**Soham Pramod Tayade**  
+🎓 BSc Cyber & Digital Science  
+🏢 RISE Internship – Cybersecurity & Ethical Hacking  
+📍 Pune, Maharashtra  
+🔗 GitHub: [Dozkiller04](https://github.com/Dozkiller04)
