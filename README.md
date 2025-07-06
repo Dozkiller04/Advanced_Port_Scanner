@@ -43,13 +43,10 @@ Advanced_Port_Scanner/
 ```bash
 git clone https://github.com/Dozkiller04/Advanced_Port_Scanner.git
 cd Advanced_Port_Scanner
+
 python Port_Scanner.py
-
-
 Enter target (e.g. google.com or 192.168.1.1)
-
 Enter start port (e.g. 20)
-
 Enter end port (e.g. 100)
 
 Results will show in console and be saved to scan_results.txt and scan_results.csv.
