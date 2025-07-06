@@ -1,27 +1,86 @@
-🔐 Advanced Python Port Scanner
+# 🔍 Advanced Python Port Scanner
 
-This is a powerful and customizable **Advanced Port Scanner** built using Python. It performs **multi-threaded scanning**, **service detection**, **banner grabbing**, **SSL (HTTPS) fingerprinting**, and even **flags commonly vulnerable ports** — making it useful for educational and ethical security assessments.
-
----
-
-📌 Features
-
-- 🔍 Scan any target IP or hostname
-- 🔢 Specify custom port range (1–65535)
-- ⚡ Multi-threaded scanning using `ThreadPoolExecutor`
-- 🧠 Service detection using `socket.getservbyport()`
-- 🧾 Banner grabbing for open ports
-- 🔐 SSL/TLS version detection for HTTPS (port 443)
-- 🚨 Warns if dangerous ports like FTP, Telnet, SMB, etc. are open
-- 📁 Saves results in `.txt` (human-readable) and `.csv` (for reports)
+A Python-based port scanner tool that allows users to scan specific IP addresses or hostnames for open ports.  
+It helps in identifying active services and analyzing potential security risks on a network.
 
 ---
 
-🖥️ Usage
+## ✨ Features
 
-🔧 Requirements:
-- Python 3.x
+- 📡 Scan custom IP addresses or hostnames
+- 🔢 Specify start and end port range
+- 📊 Displays open ports with brief service information
+- 🧠 Fast scanning with multithreading
+- 💾 Saves output to `.txt` and `.csv` formats
+- 🧑‍💻 Beginner-friendly CLI interface
 
-▶️ Run the script:
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python 3.x
+- ⚙️ `socket` – for scanning ports
+- 📁 `csv` & `datetime` – for saving logs
+- 🚀 `threading` – for fast parallel scans
+
+---
+
+## 📁 Folder Structure
+Advanced_Port_Scanner/
+├── Port_Scanner.py # Main script
+├── scan_results.txt # Sample text result
+├── scan_results.csv # Sample CSV result
+├── screenshots/ # Output screenshots
+│ ├── 01_script_start.png
+│ └── 02_scan_result.png
+└── README.md # Project documentation
+
+
+---
+
+## ⚙️ How to Run
+
 ```bash
-python port_scanner.py
+git clone https://github.com/Dozkiller04/Advanced_Port_Scanner.git
+cd Advanced_Port_Scanner
+python Port_Scanner.py
+
+
+Enter target (e.g. google.com or 192.168.1.1)
+
+Enter start port (e.g. 20)
+
+Enter end port (e.g. 100)
+
+Results will show in console and be saved to scan_results.txt and scan_results.csv.
+```
+📸 Screenshots
+▶️ Script Start Prompt
+
+✅ Open Port Scan Output
+
+🎬 Project Demo (with Voice-over)
+📽️ Watch full demo here:
+👉 Click to Watch Demo on Google Drive
+
+🚀 Future Improvements
+🌐 Service version detection
+
+🛑 Port exclusion filters
+
+📈 GUI using Tkinter or PyQt
+
+🧠 Add UDP scanning support
+
+🔐 Detect common vulnerable ports
+
+👨‍💻 Author
+Soham Pramod Tayade
+🎓 BSc Cyber & Digital Science
+🏢 RISE Internship – Cybersecurity & Ethical Hacking
+📍 Pune, Maharashtra
+🔗 GitHub: Dozkiller04
+
+
+
+
