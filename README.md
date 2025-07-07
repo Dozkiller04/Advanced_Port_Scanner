@@ -25,6 +25,11 @@ It helps in identifying active services and analyzing potential security risks o
 
 ---
 
+## Requirements
+- Python 3.10+
+- Internet connection for scanning
+
+
 ## 📁 Folder Structure
 Advanced_Port_Scanner/
 ├── Port_Scanner.py # Main script
