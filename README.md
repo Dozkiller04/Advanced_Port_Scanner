@@ -29,6 +29,7 @@ It helps in identifying active services and analyzing potential security risks o
 - Python 3.10+
 - Internet connection for scanning
 
+---
 
 ## 📁 Folder Structure
 Advanced_Port_Scanner/
@@ -85,6 +86,7 @@ Results will show in console and be saved to scan_results.txt and scan_results.c
 ---
 # Advanced Port Scanner 🔎
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+---
 
 ## 👨‍💻 Author
 
