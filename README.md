@@ -83,6 +83,8 @@ Results will show in console and be saved to scan_results.txt and scan_results.c
 - 🔐 Detect common vulnerable ports
 
 ---
+# Advanced Port Scanner 🔎
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 👨‍💻 Author
 
